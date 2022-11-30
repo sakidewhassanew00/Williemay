@@ -19,8 +19,7 @@
   background-color: var(--dl-color-gray-white);
 }
 .home-image {
-  width: 452px;
-  height: 215px;
+  width: 250px;
   object-fit: cover;
 }
 .home-navbar {
@@ -52,7 +51,7 @@
 .home-cta-btn {
   color: var(--dl-color-gray-white);
   width: 273px;
-  height: 74px;
+  height: 50px;
   font-size: 25px;
   align-self: center;
   text-align: center;
